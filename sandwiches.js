@@ -1,0 +1,20 @@
+export const SANDWICHES = [
+  {name: 'Balogna', image: './img/balogna.png', key: '1'},
+  {name: 'PB&J', image: './img/balogna.png', key: '2'},
+  {name: 'BLT', image: './img/balogna.png', key: '3'},
+  {name: 'Chicken Breast', image: './img/balogna.png', key: '4'},
+  {name: 'Steak Thing', image: './img/balogna.png', key: '5'},
+  {name: 'Buffalo Chicken', image: './img/balogna.png', key: '6'},
+  {name: 'Smoked Turkey Pepperjack', image: './img/balogna.png', key: '7'},
+  {name: 'Italian', image: './img/balogna.png', key: '8'},
+  {name: 'Humzahs Sandwich', image: './img/balogna.png', key: '9'},
+  {name: 'Beef', image: './img/balogna.png', key: '10'},
+  {name: 'Hot Dog', image: './img/balogna.png', key: '11'},
+  {name: 'Bagel w/ Cream Cheese', image: './img/balogna.png', key: '12'},
+  {name: 'Nasty Sandwich', image: './img/balogna.png', key: '13'},
+  {name: 'Just Lettuce (Sad)', image: './img/balogna.png', key: '14'},
+  {name: 'Cream Cheese and Jelly', image: './img/balogna.png', key: '15'},
+  {name: 'Grilled Cheese', image: './img/balogna.png', key: '16'},
+  {name: 'Spicy Boy', image: './img/balogna.png', key: '17'},
+  {name: 'Poboy', image: './img/balogna.png', key: '18'}
+]
